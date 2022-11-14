@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ShikharThaQuri
-- 👀 I’m interested in Full Stack Web Devoeloper
+- 👋 Hi, I’m Shikhar Chand ThaQuri,
+- 👀 I’m interested in Full Stack Web Devoeloper,
+- I'm a +2 pass student (*_*) and forward to learn code on my own...
+- Open to lern code form everywhere.
 
 
 <!---
